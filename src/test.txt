@@ -1,0 +1,7 @@
+Sentence 1
+Sentence 2
+Hello Advanced Java Class
+
+5.25ctrueJava
+Milwaukee, WI 53022
+End of file
